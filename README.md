@@ -25,9 +25,7 @@ CMD => php spark serve
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter4-crud-ajax/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter4-crud-ajax/main/Screenshots/Output-02.png)
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter4-crud-ajax/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter4-pagination/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
